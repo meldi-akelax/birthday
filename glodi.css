@@ -37,6 +37,7 @@ h1 {
     display: inline-block;
     height: 4px;
     width: 60px;
+    margin-top: -5px;
     background: orange;
 }
 

@@ -60,7 +60,7 @@ class Birthday {
                 random(0, this.width),
                 random(this.spawnC, this.spawnD),
                 random(10, 360),
-                random(30, 250)))
+                random(30, 200)))
             this.counter = 0
         }
 
